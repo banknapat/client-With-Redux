@@ -1,5 +1,5 @@
 ############################
-basic web application with react and react json api
+basic web application with react.js and redux.js json api
 ############################
 
 
